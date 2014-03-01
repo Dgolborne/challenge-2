@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Bangers);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+h1 {font-family: 'Open Sans Condensed', sans-serif; font-size: 2em;}
+
+p {font-family: 'Open Sans Condensed', sans-serif; font-size: 1.5em;}
+
+img {
+-moz-border-radius: 1000px;
+-webkit-border-radius: 1000px;
+border-radius: 1000px;
+border: white .5em solid;
+}
+
+a:link {color:blue;}
+a:visited {color:purple;}
+
+body {background: #ccc}
